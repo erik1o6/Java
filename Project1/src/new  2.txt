@@ -1,0 +1,8 @@
+signal m_1 : st_logic vector (3 downto 0);
+signal a : st_logic vector (3 downto 0);
+signal b : st_logic vector (3 downto 0);
+begin
+
+gate
+gate
+gate
